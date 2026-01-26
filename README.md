@@ -32,10 +32,10 @@ The assignment is divided into 10 distinct tasks, implemented in separate Jupyte
 * **Question 10:** Implementation of a **Manual Bilateral Filter** to demonstrate edge-preserving smoothing. Comparison against standard Gaussian blur and OpenCV's built-in `cv.bilateralFilter`.
 
 
-    ```
+    
 1.  Install dependencies:
     ```bash
     pip install opencv-python numpy matplotlib
     ```
-3.  Open any notebook (e.g., `Question10.ipynb`) in Jupyter or VS Code to view the results.
+2.  Open any notebook (e.g., `Question10.ipynb`) in Jupyter or VS Code to view the results.
 
