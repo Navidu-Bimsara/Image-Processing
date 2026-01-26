@@ -8,7 +8,7 @@ This repository contains the solutions for **Assignment 1** of the ET31122026 (I
 * **NumPy**
 * **Matplotlib**
 
-## 📂 Project Structure
+## 📂 Assignment Structure
 
 The assignment is divided into 10 distinct tasks, implemented in separate Jupyter Notebooks/scripts:
 
@@ -31,12 +31,9 @@ The assignment is divided into 10 distinct tasks, implemented in separate Jupyte
 * **Question 9:** Image Sharpening using a Laplacian-based kernel to enhance fine details (e.g., jewelry, hair).
 * **Question 10:** Implementation of a **Manual Bilateral Filter** to demonstrate edge-preserving smoothing. Comparison against standard Gaussian blur and OpenCV's built-in `cv.bilateralFilter`.
 
-## 🚀 How to Run
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/YourUsername/IN4640-Assignment-1.git](https://github.com/Navidu-Bimsara/IN4640-Assignment-1.git)
+
     ```
-2.  Install dependencies:
+1.  Install dependencies:
     ```bash
     pip install opencv-python numpy matplotlib
     ```
