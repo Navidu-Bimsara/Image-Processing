@@ -34,7 +34,7 @@ The assignment is divided into 10 distinct tasks, implemented in separate Jupyte
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/IN4640-Assignment-1.git](https://github.com/YourUsername/IN4640-Assignment-1.git)
+    git clone [https://github.com/YourUsername/IN4640-Assignment-1.git](https://github.com/Navidu-Bimsara/IN4640-Assignment-1.git)
     ```
 2.  Install dependencies:
     ```bash
